@@ -11,3 +11,7 @@ Introduction
 ============
 The project is for eclipse ,I find the project of Android Studio,but I use the eclipse to create project,so I create the project for elipse.
 
+Thanks
+========
+Thanks the author tjerkw.
+The origin url : [https://github.com/tjerkw/Android-SlideExpandableListView](https://github.com/tjerkw/Android-SlideExpandableListView "mickey") 
